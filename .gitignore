@@ -1,0 +1,29 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# MelonLoader builds
+*.dll
+*.pdb
+!src/NRTPMod/bin/Release/net6.0/NRTPMod.dll
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+MelonLoader/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary
+*.tmp
+*.temp
