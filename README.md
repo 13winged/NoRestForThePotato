@@ -1,4 +1,4 @@
-# No Rest for the Potato — Launcher
+# No Rest for the Potato
 
 Версия: 0.3.5
 Архив: NoRestForThePotato_Launcher_v0.3.5.zip
